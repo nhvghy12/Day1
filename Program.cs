@@ -12,33 +12,33 @@ namespace D1
             List<Member> list = new List<Member>() {
             new Member
             {
-                FirstName="Tuan",
-                LastName="Phong",
+                FirstName="Tan",
+                LastName="Dung",
                 Gender=Member.Gender1.Male,
                 BirthDay= new DateTime(2000,01,01),
-                Phone="0963199204",
+                Phone="0963199162",
                 
                 Place="HP",
                 Graduated=true
             },
             new Member
             {
-                FirstName="Van",
-                LastName="Phuc",
+                FirstName="oki",
+                LastName="choi",
                 Gender=Member.Gender1.Male,
                 BirthDay= new DateTime(1999,01,01),
-                Phone="0963199204",
+                Phone="0963199162",
                
                 Place="HN",
                 Graduated=true
             },
             new Member
             {
-                FirstName="Dinh",
-                LastName="Huy",
+                FirstName="Dung",
+                LastName="Dao",
                 Gender=Member.Gender1.Female,
                 BirthDay= new DateTime(2050,01,01),
-                Phone="0963199204",
+                Phone="0963199162",
                
                 Place="BN",
                 Graduated=true
